@@ -29,6 +29,7 @@
     <Content Include="config\permissions.ini" />
     <Content Include="config\whitelist.txt" />
     <Content Include="requirements.txt" />
+    <Content Include="TextFile1.txt" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="musicbot\bot.py" />
